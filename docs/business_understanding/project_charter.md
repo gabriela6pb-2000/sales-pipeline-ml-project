@@ -1,58 +1,59 @@
-# Project Charter - Entendimiento del Negocio
+# Sales Pipeline B2B - Entendimiento del Negocio
 
 ## Nombre del Proyecto
 
-[Nombre del proyecto aquí]
+Predictive Analysis of B2B Sales Opportunities Using Machine Learning
 
 ## Objetivo del Proyecto
 
-[Descripción breve del objetivo del proyecto y por qué es importante]
+Desarrollar un modelo predictivo que permita estimar la probabilidad de éxito de oportunidades comerciales B2B utilizando técnicas de Machine Learning y datos históricos de un pipeline comercial.Para compañías orientadas a servicios de catering, food services y servicios técnicos generales, estimar la probabilidad de éxito o pérdida de oportunidades comerciales (RFPs) resulta estratégico para optimizar esfuerzos comerciales y priorizar aquellas oportunidades con mayor potencial de revenue.
 
 ## Alcance del Proyecto
 
 ### Incluye:
 
-- [Descripción de los datos disponibles]
-- [Descripción de los resultados esperados]
-- [Criterios de éxito del proyecto]
+- El proyecto utilizará información histórica de oportunidades comerciales B2B, incluyendo datos de clientes, representantes comerciales, productos, estados de oportunidades y valores de cierre.
+- Se espera desarrollar un modelo predictivo capaz de estimar la probabilidad de éxito de oportunidades comerciales utilizando información histórica del pipeline de ventas.
+- Criterios de éxito del proyecto: el proyecto será considerado exitoso si el modelo logra estimar adecuadamente la probabilidad de éxito de oportunidades comerciales utilizando información histórica del pipeline de ventas. Se evaluará el desempeño del modelo mediante métricas de clasificación como Accuracy, Precision, Recall, F1-Score & ROC-AUC
+Adicionalmente, se espera que el modelo permita generar insights útiles para apoyar la priorización de oportunidades comerciales y mejorar la toma de decisiones estratégicas.
 
 ### Excluye:
 
-- [Descripción de lo que no está incluido en el proyecto]
+- Desarrollo de una aplicación web en producción.
+- Integración en tiempo real con sistemas CRM empresariales.
+- Automatización completa de decisiones comerciales.
+- Predicción de revenue exacto de oportunidades.
+- Uso de datos confidenciales o privados de organizaciones reales.
 
 ## Metodología
 
-[Descripción breve de la metodología que se utilizará para llevar a cabo el proyecto]
+El proyecto seguirá la metodología Team Data Science Process (TDSP), incluyendo las etapas de entendimiento del negocio, carga y exploración de datos, preprocesamiento, ingeniería de características, modelamiento predictivo y evaluación de resultados.
+
+Se utilizarán técnicas de análisis exploratorio de datos y modelos de Machine Learning supervisado para estimar la probabilidad de éxito de oportunidades comerciales B2B.
+
 
 ## Cronograma
 
 | Etapa | Duración Estimada | Fechas |
 |------|---------|-------|
-| Entendimiento del negocio y carga de datos | 2 semanas | del 1 de mayo al 15 de mayo |
-| Preprocesamiento, análisis exploratorio | 4 semanas | del 16 de mayo al 15 de junio |
-| Modelamiento y extracción de características | 4 semanas | del 16 de junio al 15 de julio |
-| Despliegue | 2 semanas | del 16 de julio al 31 de julio |
-| Evaluación y entrega final | 3 semanas | del 1 de agosto al 21 de agosto |
+| Entendimiento del negocio, definición del problema y carga de datos | 4 días | del 7 de mayo al 10 de mayo |
+| Exploración y análisis descriptivo de los datos (EDA) | 1 semana | del 11 de mayo al 17 de mayo |
+| Preprocesamiento e ingeniería de características | 1 semana | del 18 de mayo al 24 de mayo |
+| Desarrollo, entrenamiento y evaluación de modelos predictivos | 10 días | del 25 de mayo al 3 de junio |
+| Interpretación de resultados, visualizaciones y documentación final | 1 semana | del 4 de junio al 10 de junio |
 
-Hay que tener en cuenta que estas fechas son de ejemplo, estas deben ajustarse de acuerdo al proyecto.
-
-## Equipo del Proyecto
-
-- [Nombre y cargo del líder del proyecto]
-- [Nombre y cargo de los miembros del equipo]
-
-## Presupuesto
-
-[Descripción del presupuesto asignado al proyecto]
 
 ## Stakeholders
 
-- [Nombre y cargo de los stakeholders del proyecto]
-- [Descripción de la relación con los stakeholders]
-- [Expectativas de los stakeholders]
+- Gerencia comercial:
+  Interesada en optimizar la priorización de oportunidades comerciales y mejorar el win rate.
 
-## Aprobaciones
+- Equipos de ventas:
+  Interesados en identificar oportunidades con mayor probabilidad de éxito y optimizar esfuerzos comerciales.
 
-- [Nombre y cargo del aprobador del proyecto]
-- [Firma del aprobador]
-- [Fecha de aprobación]
+- Business development:
+  Interesado en utilizar analítica predictiva para apoyar la toma de decisiones estratégicas.
+
+- Revenue management:
+  Interesado en mejorar el forecasting comercial y la proyección de ingresos.
+
