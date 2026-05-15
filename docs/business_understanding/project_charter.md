@@ -6,7 +6,7 @@ Predictive Analysis of B2B Sales Opportunities Using Machine Learning
 
 ## Objetivo del Proyecto
 
-Desarrollar un modelo predictivo que permita estimar la probabilidad de éxito de oportunidades comerciales B2B utilizando técnicas de Machine Learning y datos históricos de un pipeline comercial.Para compañías orientadas a servicios de catering, food services y servicios técnicos generales, estimar la probabilidad de éxito o pérdida de oportunidades comerciales (RFPs) resulta estratégico para optimizar esfuerzos comerciales y priorizar aquellas oportunidades con mayor potencial de revenue.
+Desarrollar un modelo predictivo que permita estimar la probabilidad de éxito de oportunidades comerciales B2B utilizando técnicas de Machine Learning y datos históricos de un pipeline comercial. Para compañías orientadas a productos y/o servicios de catering, food services y servicios técnicos generales, estimar la probabilidad de éxito o pérdida de oportunidades comerciales (RFPs) resulta estratégico para optimizar esfuerzos comerciales y priorizar aquellas oportunidades con mayor potencial de revenue.
 
 ## Alcance del Proyecto
 
