@@ -1,0 +1,31 @@
+import pandas as pd
+
+def load_data():
+
+    sales_pipeline = pd.read_csv(
+        "data/raw/sales_pipeline.csv"
+    )
+
+    accounts = pd.read_csv(
+        "data/raw/accounts.csv"
+    )
+
+    sales_teams = pd.read_csv(
+        "data/raw/sales_teams.csv"
+    )
+
+    products = pd.read_csv(
+        "data/raw/products.csv"
+    )
+
+    return sales_pipeline, accounts, sales_teams, products
+
+
+if __name__ == "__main__":
+
+    sales_pipeline, accounts, sales_teams, products = load_data()
+
+    print(sales_pipeline.head())
+    print(accounts.head())
+    print(sales_teams.head())
+    print(products.head())
