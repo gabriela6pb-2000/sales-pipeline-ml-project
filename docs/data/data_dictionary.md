@@ -15,11 +15,6 @@ Contiene información histórica relacionada con oportunidades comerciales dentr
 | close_date | Fecha de cierre de la oportunidad | Fecha | YYYY-MM-DD | CRM Sales Opportunities Dataset |
 | close_value | Valor económico de cierre | Numérico | Valores monetarios positivos | CRM Sales Opportunities Dataset |
 
-- **Variable**: nombre de la variable.
-- **Descripción**: breve descripción de la variable.
-- **Tipo de dato**: tipo de dato que contiene la variable.
-- **Rango/Valores posibles**: rango o valores que puede tomar la variable.
-- **Fuente de datos**: fuente de los datos de la variable.
 
 ---
 
@@ -37,11 +32,6 @@ Contiene información descriptiva de clientes y cuentas comerciales.
 | office_location | Ubicación de oficinas del cliente | Categórico | Ciudades o regiones | CRM Sales Opportunities Dataset |
 | subsidiary_of | Empresa matriz o subsidiaria | Categórico | Nombre de empresa | CRM Sales Opportunities Dataset |
 
-- **Variable**: nombre de la variable.
-- **Descripción**: breve descripción de la variable.
-- **Tipo de dato**: tipo de dato que contiene la variable.
-- **Rango/Valores posibles**: rango o valores que puede tomar la variable.
-- **Fuente de datos**: fuente de los datos de la variable.
 
 ---
 
@@ -55,11 +45,7 @@ Contiene información relacionada con equipos y representantes comerciales.
 | manager | Gerente comercial asignado | Categórico | Nombre del manager | CRM Sales Opportunities Dataset |
 | regional_office | Oficina regional asignada | Categórico | Regiones comerciales | CRM Sales Opportunities Dataset |
 
-- **Variable**: nombre de la variable.
-- **Descripción**: breve descripción de la variable.
-- **Tipo de dato**: tipo de dato que contiene la variable.
-- **Rango/Valores posibles**: rango o valores que puede tomar la variable.
-- **Fuente de datos**: fuente de los datos de la variable.
+
 
 ---
 
@@ -72,9 +58,3 @@ Contiene información relacionada con los productos comercializados.
 | product | Nombre del producto | Categórico | Productos comerciales | CRM Sales Opportunities Dataset |
 | series | Línea o categoría del producto | Categórico | Series comerciales | CRM Sales Opportunities Dataset |
 | sales_price | Precio de venta del producto | Numérico | Valores monetarios positivos | CRM Sales Opportunities Dataset |
-
-- **Variable**: nombre de la variable.
-- **Descripción**: breve descripción de la variable.
-- **Tipo de dato**: tipo de dato que contiene la variable.
-- **Rango/Valores posibles**: rango o valores que puede tomar la variable.
-- **Fuente de datos**: fuente de los datos de la variable.
